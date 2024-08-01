@@ -1,0 +1,162 @@
+
+.container{
+    border: 2px solid rgb(0, 2, 65);
+    background-color: rgb(184, 218, 216);
+    height: 1250px;
+    width: 1000px;
+    position: relative;
+}
+body{
+    padding: 5% ;
+}
+.serialno{
+    display: flex;
+    padding-top: 2%;
+    padding-left: 2%;
+}
+.serialtwo{
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+    color:rgb(102, 137, 197);
+}
+.logo{
+    margin-top: 7%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.top{
+    display: flex;
+    gap: 6%;
+}
+.qr{
+    margin-top: 2%;
+}
+.clgname{
+    font-size: large;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(5, 40, 106);
+    text-align: center;
+    }
+ .asso{
+    text-align: center;
+    font-size: small;
+    color: rgb(5, 40, 106);
+    
+ }
+ .tableone{
+   display: flex;
+   justify-content: center;
+   align-items: center;
+  
+ }
+ .table1{
+    
+    text-align: center;
+    border-collapse: collapse;
+    border-color:rgb(24, 171, 245) ;
+    border-radius: 3px;
+    width: 95%;
+
+ }
+ 
+  .ali{
+    display: inline-block;
+    text-align: center;
+
+  }
+ td{
+   
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+ }
+ th{
+   
+    color:rgb(2, 57, 90);
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+ }
+ .tabletwo{
+    margin-top: 4%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left:0%;
+ }
+ 
+input{
+width: 40%;
+border: none;
+background-color: rgb(184, 218, 216);
+
+}
+input:focus{
+    border: none;
+}
+ .marks-table {
+  width: 100%;
+  border-collapse: collapse;
+
+  }
+.marks-table th, .marks-table td {
+
+border: 2px solid rgb(24, 171, 245) ;
+padding: 8px;
+text-align: center;
+font-size: 14px;
+
+}
+.marks-table{
+   margin-top: -0.25%;
+}
+
+.summary {
+   
+    margin-top: -.15%;
+font-size: 14px;
+border: 2px solid rgb(24, 171, 245) ;
+width: 99.6%;
+}
+
+.summary p {
+margin-left: 2%;
+}
+strong{
+    color: black;
+}
+    
+p{
+    
+    font-weight: bold;
+    color:rgb(2, 57, 90);
+    font-family: 'Times New Roman', Times, serif;
+}
+ .down{
+    margin-left:4% ;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10%;
+ }
+ .date {
+    display: flex;
+ }
+ .date h4 {
+      margin-top:25% ;
+ }
+ .center{
+    margin-top: 10%;
+ }
+ .cornerh{
+    margin-bottom: -10%;
+ }
+ .cornerd{
+    margin-bottom: -5%;
+ }
+ .one{
+    display: flex;
+ }
+ .adj{
+    margin-top: 1.2%;
+ }
